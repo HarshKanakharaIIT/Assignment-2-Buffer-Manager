@@ -8,7 +8,7 @@ This project is a buffer manager that supports:
 
 * **FIFO**
 * **LRU**
-* **CLOCK** (extra credit)
+* **CLOCK** 
 * **LRU-K** (handled as LRU)
 
 All public functions are **thread-safe**.
@@ -63,4 +63,3 @@ make
 
 ---
 
-Let me know if you'd like this in a `.md` or `.txt` format!
